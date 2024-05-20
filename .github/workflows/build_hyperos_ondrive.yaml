@@ -7,7 +7,7 @@ on:
         required: true
         default: 'https://7cd552-my.sharepoint.com/personal/keinhaan_7cd552_onmicrosoft_com/_layouts/15/download.aspx?SourceUrl=https://7cd552-my.sharepoint.com/personal/keinhaan_7cd552_onmicrosoft_com/Documents/miui_PICASSO_V14.0.11.0.TLDCNXM_4cdce54044_13.0.zip'
       PORT_URL:
-        description: "https://bn.d.miui.com/OS1.0.3.0.TGACNXM/miui_THYME_OS1.0.3.0.TGACNXM_944261b3df_13.0.zip"
+        description: "Link Port"
         required: true
         
 jobs:
